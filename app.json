@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "DK Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Vc-Player",
+    "keywords": ["Dkmusic", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
+    "repository": "https://github.com/Dk143gurjar/Dilkhush",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -28,12 +28,12 @@
         "BOT_USERNAME": {
             "description": "fill with telegram id of account",
             "required": true,
-            "value": "Zaid2_Robot"
+            "value": "Dkmusic5bot"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
-            "value": "6435225"
+            "value": "12138418"
         },
         "MONGO_DB_URL": {
             "description": "fill there mongo Database url else don't change",
@@ -43,7 +43,7 @@
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": false,
-            "value": "4e984ea35f854762dcde906dce426c2d"
+            "value": "f7c60f0f506a54d27df6bc32a1bbe785"
         },
         "HEROKU_MODE": {
             "description": "Warning ⚠️! don't Change this, if you change this it will cause of banning your heroku account!",
@@ -53,17 +53,17 @@
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "Dk_music1"
         },
         "UPDATES_CHANNEL": {
             "description": "Your Updates Channel",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "education_quiz_hub"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1669178360"
+            "value": "1454188284"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
@@ -73,7 +73,7 @@
         "BOT_NAME": {
             "description": "Tell us your bot name else don't change this !",
             "required": true,
-            "value": "Zaid"
+            "value": "Dkmusic"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
