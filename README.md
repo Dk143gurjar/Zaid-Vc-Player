@@ -7,7 +7,7 @@
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Zaid-Vc-Player&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dkmusic&repo=Dilkhush&theme=dark)
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
@@ -79,12 +79,12 @@
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
 
-<img src="https://telegra.ph/file/97e6de197eba98d2caba5.jpg" align="right" width="350" height="700"/>
+<img src="https://te.legra.ph/file/c15e374771b1b6807bd84.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
 - Fill your values there.
-- If you don't know how to get config vars : [Please refer here](https://github.com/ITZ-ZAID/Zaid-Vc-Player/blob/main/sample.env)
+- If you don't know how to get config vars : [Please refer here](https://github.com/Dk143gurjar/Dilkhush/blob/main/sample.env)
 - Make sure you fill correct values.
 - Click on **Deploy** button.
 - Please wait till the app gets deployed on heroku. Deploying can take upto **2-3 mins**..
@@ -103,7 +103,7 @@
 - Click on the **More Button** present at top right corner .
 - Click on the **View Logs** button from the drop down menu.
 - You check your logs there!
-- Click on save button there at bottom to save your logs and forward it to us on [@Bot_Support](https://t.me/Superior_Support) if you face any problem
+- Click on save button there at bottom to save your logs and forward it to us on [@Bot_Support](https://t.me/Education_quiz_hub) if you face any problem
 
 </details>
 
@@ -111,7 +111,7 @@
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy on Okteto!</h4>
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/ITZ-ZAID/Zaid-Vc-Player"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Dk143gurjar/Dilkhush"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ## Workflows hosting
 
@@ -120,7 +120,7 @@
 
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
-ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/ITZ-ZAID/Zaid-Vc-Player), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
+ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/Dk143gurjar/Dilkhush), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
 <p align="center"><a href="https://railway.app/new/template?template=https://github.com/ITZ-ZAID/Music-Deploy&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
@@ -131,7 +131,7 @@
 
 
 ```console
-Zaid@Windows~ $ git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player
+Zaid@Windows~ $ git clone https://github.com/Dk143gurjar/Dilkhush
 Zaid@Windows~ $ cd Zaid-Vc-Player
 Zaid@Windows~ $ bash setup
 Zaid@Windows~ $ cp sample.env .env
